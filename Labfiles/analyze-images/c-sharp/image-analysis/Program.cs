@@ -37,7 +37,8 @@ namespace image_analysis
                 {
                     imageFile = args[0];
                 }
-                
+
+                var stream = File.OpenRead(imageFile);
 
                 // Authenticate Azure AI Vision client
 
