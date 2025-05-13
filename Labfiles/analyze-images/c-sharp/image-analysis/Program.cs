@@ -9,6 +9,7 @@ using System.Collections.Generic;
 using Microsoft.Extensions.Configuration;
 using Azure;
 using SkiaSharp;
+using System.Drawing;
 
 // Import namespaces
 
